@@ -1,0 +1,90 @@
+{
+  "Personagens": [
+    {
+      "nome": "André",
+      "expressoes": ["feliz","sereno", "serio"],
+      "dialogos": [
+        {
+          "local": "ConversaComAndre",
+          "introducao": true,
+          "frases": [
+            "Mas veja quem está aqui! Que bom que aceitou o convite em dar aulas em nossa escola! Meu nome é André e sou o diretor.",
+            "Sempre que precisar que a mensagem seja repetida aperte Q. Pressione Enter ou pressione o botão azul ao lado para nossa conversa continuar.",
+            "Sua aula começará em breve, mas antes visite as salas do colégio para conhecer a nossa equipe. Todos estão ansiosos para te conhecer! Você precisará muito da ajuda deles para preparar suas aulas!"
+          ],
+          "expressoes": ["feliz", "sereno"]
+        },{
+          "local": "Corredor",
+          "frases": [
+            "Talvez você devesse visitar a sala dos professores antes!"
+                    ]
+        }
+      ]
+    },
+    {
+      "nome": "Valéria",
+      "expressoes": ["feliz","sereno", "bravo"],
+      "dialogos": [
+        {
+          "local": "Sala dos professores",
+          "introducao": true,
+          "frases": [
+            "Sim, eu liguei na secretaria de ensino mas me falaram que neste mês não teremos recurso para consertar o projetor…",
+            "Hm? Ah, olá! Desculpe por termos começado a reunião, mas é que tínhamos que adiantar alguns assuntos.",
+            "Meu nome é Valéria e estarei aqui para te ajudar no planejamento de suas aulas e nos demais recursos que precisar em nossa escola.",
+            "Escolha a opção “Plano de Aula” para que eu te ajude a se preparar para a aula desta semana."
+          ],
+          "expressoes": ["feliz", "sereno", "feliz", "sereno"]
+        },
+        {
+          "local": "Sala dos professores",
+          "frases": [
+            "Olá!"
+          ]
+        },{
+          "local": "HTPI",
+          "frases": [
+            "Agora vamos ver quais das ações pedagógicas foram mais eficazes na sua aula ou que poderiam ter funcionado melhor.",
+            "Analise as demandas e resolva utilizando as ações disponiveis"
+          ],
+          "expressoes": ["feliz", "sereno"]
+
+        }
+      ]
+    },
+    {
+      "nome": "Marilde",
+      "expressoes": ["feliz","sereno", "serio"],
+      "dialogos": [
+        {
+          "local": "Biblioteca",
+          "frases": [
+            "Precisa consultar algum material?"
+          ]
+        }
+      ]
+    },{
+      "nome": "Ane",
+      "expressoes": ["feliz","sereno", "serio"],
+      "dialogos": [
+        {
+          "introducao" : true,
+          "local": "RM",
+          "frases": [
+            "Oi André… por acaso você não viu aquele data sho….",
+            "Hm? Ah, olá! Pensei que fosse o André, haha!",
+            "É você que começará na escola, certo?",
+            "Sou Ane e tomo conta da sala de Recursos Multifuncionais, muito prazer!",
+            "Se precisar de alguma informação sobre o uso de mídias e materiais para suas aulas, fique à vontade para me consultar."
+          ]
+        },
+        {
+          "local": "RM",
+          "frases": [
+            "Olá, precisa consultar algo?"
+          ]
+        }
+      ]
+    }
+  ]
+}

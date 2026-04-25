@@ -1,0 +1,65 @@
+using System.Collections.Generic;
+
+public class PlayerData
+{
+    public int Day;
+    private int _happiness;
+    public int Happiness
+    {
+        get => _happiness;
+        set
+        {
+            if (value > 100)
+            {
+                _happiness = 100;
+            }
+            else if (value < 0)
+            {
+                _happiness = 0;
+            }
+            else
+            {
+                _happiness = value;
+            }
+        }
+    }
+
+    public int Points;
+    public HashSet<ClassAcao> SelectedActions;
+    public List<string> Dialogs;
+    public int SelectedAvatar;
+    //public Dictionary<string, int> staticImages;
+
+    public PlayerData()
+    {
+        SelectedActions = new HashSet<ClassAcao>();
+        Happiness = 100;
+        Points = 0;
+        Day = 1;
+        Dialogs = new List<string>();
+        SelectedAvatar = 0;
+        //staticImages = new Dictionary<string, int>();
+    }
+
+    public PlayerData(SaveData saveData)
+    {
+       Points = saveData.Points;
+       Day = saveData.Day;
+       Happiness = saveData.Happiness;
+       Dialogs = saveData.Dialogs;
+       SelectedAvatar = saveData.SelectedAvatar;
+       //Conversão ID para a Classe
+       SelectedActions = new HashSet<ClassAcao>();
+       if (saveData.SelectedActions != null && GameManager.GameData?.Acoes != null)
+       {
+           foreach (var id in saveData.SelectedActions)
+           {
+                var acao = GameManager.GameData.Acoes.Find(a => a.id == id);
+                if (acao != null)
+                {
+                     SelectedActions.Add(acao);
+                 }
+           }
+       }
+   }
+}

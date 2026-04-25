@@ -1,0 +1,508 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1775139032267316, "dur":729, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139032268051, "dur":438, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1775139032268500, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1775139032268517, "dur":3384, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1775139032272462, "dur":1057, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139032273519, "dur":4, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041478625, "dur":425, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479050, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479051, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479051, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479051, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479052, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479052, "dur":94, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479146, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479147, "dur":25, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479172, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479173, "dur":52, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479225, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479226, "dur":12, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479238, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479238, "dur":15, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479253, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479253, "dur":15, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479268, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479268, "dur":19, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479287, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479288, "dur":16, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479304, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479304, "dur":12, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479316, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479317, "dur":15, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479332, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479332, "dur":13, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479345, "dur":1, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479346, "dur":14, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479360, "dur":0, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479360, "dur":12, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479372, "dur":36, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479409, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479413, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041479418, "dur":570, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1775139032269807, "dur":3968, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032273776, "dur":7870, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032281647, "dur":493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/metodologias.json" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282140, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282152, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282157, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282279, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282283, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282310, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/17.png" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282314, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282324, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/sereno.png" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282326, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282499, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level7" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282604, "dur":301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level7" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282908, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282923, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032282925, "dur":204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1775139032283131, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/alunos.json" }}
+,{ "pid":12345, "tid":1, "ts":1775139032283259, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032283272, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1775139032283279, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139032283281, "dur":8387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1775139032291673, "dur":9186235, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139041477909, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1775139041478225, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1775139041478229, "dur":399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139032268729, "dur":4970, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139032273741, "dur":7783, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139032281527, "dur":18922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker /home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1775139032300710, "dur":17, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139032301904, "dur":9174148, "ph":"X", "name": "UnityLinker",  "args": { "detail":"/home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477461, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477491, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477497, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477575, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477579, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477639, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477651, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477673, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477677, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477706, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477709, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477724, "dur":2, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477727, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477744, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477747, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477810, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1775139041477816, "dur":533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1775139041478350, "dur":277, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032271951, "dur":1967, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032273921, "dur":7623, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032281549, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/24.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032281571, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032281773, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1775139032281782, "dur":324, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282113, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282120, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282310, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/3.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282315, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282323, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/8.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282326, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282333, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/ANDRE_cenario.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282336, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282477, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/MARILDE_cenario.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282601, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282609, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/18.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282612, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282629, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/7.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282632, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282638, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles UnityPlayer.so" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282648, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282660, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/2.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282663, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282671, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/3.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282674, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282685, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_sria.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282688, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282697, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/sereno.png" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282700, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282891, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282899, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032282902, "dur":269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":3, "ts":1775139032283174, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level6" }}
+,{ "pid":12345, "tid":3, "ts":1775139032283180, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139032283182, "dur":242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level6" }}
+,{ "pid":12345, "tid":3, "ts":1775139032283427, "dur":9194462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139041477889, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1775139041477944, "dur":5, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139041477960, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1775139041477988, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1775139041478039, "dur":591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032272127, "dur":1776, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032273907, "dur":7714, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032281625, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/aulas.json" }}
+,{ "pid":12345, "tid":4, "ts":1775139032281919, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282092, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282098, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282314, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/5.png" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282318, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282328, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/feliz.png" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282332, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282504, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282510, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032282679, "dur":418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283100, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level8" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283107, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283123, "dur":111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level8" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283237, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283243, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283245, "dur":150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":4, "ts":1775139032283398, "dur":9194496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139041477894, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1775139041477969, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139041477972, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1775139041478044, "dur":5, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1775139041478050, "dur":603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032272515, "dur":1518, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032274037, "dur":7521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032281562, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/9.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032281605, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032281765, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/6.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032281771, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032281787, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1775139032281795, "dur":370, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282166, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282172, "dur":271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282443, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_feliz.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282446, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282456, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_brava.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282460, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282478, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-H_cenario.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282607, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282667, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/15.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282671, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282683, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_serena.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282695, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282704, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/feliz.png" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282707, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282900, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139032282910, "dur":510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1775139032283422, "dur":9194468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139041477891, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1775139041477944, "dur":5, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139041477950, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1775139041477969, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1775139041477974, "dur":650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032272863, "dur":1212, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032274079, "dur":7534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032281616, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/10.png" }}
+,{ "pid":12345, "tid":6, "ts":1775139032281626, "dur":354, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032281981, "dur":374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282355, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282366, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/serio.png" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282370, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282476, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_serio.png" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282519, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282646, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/1.png" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282655, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282664, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/33.png" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282666, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282674, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE.png" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282677, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282686, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/personagens.json" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282802, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282810, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282814, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032282816, "dur":273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1775139032283092, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1775139032283109, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032283113, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1775139032283121, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139032283123, "dur":431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1775139032283556, "dur":9194432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1775139041477988, "dur":651, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032272962, "dur":1234, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032274201, "dur":7450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032281652, "dur":582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/recursos_biblioteca.json" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282234, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282249, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/config" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282255, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282264, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282268, "dur":201, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282469, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE.png" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282474, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282523, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282529, "dur":51, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032282637, "dur":502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1775139032283142, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_feliz.png" }}
+,{ "pid":12345, "tid":7, "ts":1775139032283145, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032283157, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1775139032283165, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139032283167, "dur":9857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1775139032293030, "dur":9184439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477470, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477498, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477501, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477588, "dur":2, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477590, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477609, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477619, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477645, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139041477681, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1775139041478151, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1775139041478154, "dur":472, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032272919, "dur":1188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032274107, "dur":7460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032281570, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/0.png" }}
+,{ "pid":12345, "tid":8, "ts":1775139032281618, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032281775, "dur":607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1775139032282382, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032282391, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/sereno.png" }}
+,{ "pid":12345, "tid":8, "ts":1775139032282393, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032282515, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1775139032282523, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139032283172, "dur":53201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1775139032336379, "dur":9141522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139041477901, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1775139041477943, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139041477947, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1775139041477980, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1775139041478001, "dur":625, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032273171, "dur":946, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032274117, "dur":7476, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032281595, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/14.png" }}
+,{ "pid":12345, "tid":9, "ts":1775139032281612, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032281771, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1775139032282247, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032282266, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":9, "ts":1775139032282271, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032282510, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":9, "ts":1775139032282516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139032283094, "dur":208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":9, "ts":1775139032283305, "dur":9194167, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477472, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477506, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477510, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477527, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477531, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477550, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477554, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477575, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477579, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477601, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477605, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477624, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477669, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477689, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477692, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/Coffee.SoftMaskForUGUI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477712, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477715, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477749, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477753, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477772, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041477776, "dur":392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1775139041478168, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1775139041478171, "dur":460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032273757, "dur":9, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032273771, "dur":7852, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032281625, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/12.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032281631, "dur":356, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032281988, "dur":557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282545, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282589, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282608, "dur":2, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282610, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/16.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282614, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282633, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/4.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282635, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282642, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/19.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282644, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282672, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andr.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282675, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282693, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/17.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282695, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282701, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/serio.png" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282704, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282932, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level9" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282942, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032282944, "dur":183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level9" }}
+,{ "pid":12345, "tid":10, "ts":1775139032283130, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1775139032283137, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139032283141, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1775139032284023, "dur":9193864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139041477887, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1775139041477945, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139041477967, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1775139041478004, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1775139041478038, "dur":608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032274008, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032274009, "dur":7576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032281587, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/6.png" }}
+,{ "pid":12345, "tid":11, "ts":1775139032281611, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032281774, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1775139032281782, "dur":324, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282109, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282273, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282396, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_feliz.png" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282399, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282406, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/serio.png" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282409, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282499, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_feliz.png" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282501, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282508, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level5" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282513, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032282902, "dur":217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level5" }}
+,{ "pid":12345, "tid":11, "ts":1775139032283122, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1775139032283139, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032283142, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/falas.json" }}
+,{ "pid":12345, "tid":11, "ts":1775139032283284, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139032283293, "dur":9194595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139041477889, "dur":708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1775139041478597, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1775139041478601, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1775139041478602, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032274297, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032274298, "dur":7278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032281578, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/8.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032281624, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032281791, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1775139032281801, "dur":365, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282167, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Resources/UnityPlayer.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282174, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282178, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valria.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282180, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282275, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282279, "dur":2, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282282, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/0.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282284, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282300, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/4.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282303, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282320, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/VALERIA_cenario.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282323, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282486, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_sereno.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282662, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282671, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/5.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282676, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282686, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/32.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282689, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282698, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/Ana_cenario.png" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282701, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282894, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282903, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139032282905, "dur":395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":12, "ts":1775139032283303, "dur":9194161, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477467, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477509, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477512, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477530, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477534, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477552, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477556, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477613, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477676, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477958, "dur":5, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477963, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1775139041477995, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1775139041478026, "dur":607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032274593, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032274594, "dur":7046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032281642, "dur":580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/recursos_multifuncionais.json" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282222, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282230, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282235, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282242, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282245, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282251, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282256, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282474, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_serena.png" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282488, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282499, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/feliz.png" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282502, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282511, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139032282994, "dur":20829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1775139032303829, "dur":9174061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139041477911, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1775139041477954, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139041477958, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1775139041477978, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1775139041478035, "dur":607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032274485, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032274486, "dur":7051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032281539, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/11.png" }}
+,{ "pid":12345, "tid":14, "ts":1775139032281590, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032281783, "dur":477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282260, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282277, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1.x86_64" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282296, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282300, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/11.png" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282304, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282315, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/feliz.png" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282319, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282473, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-M_cenario.png" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282598, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282612, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/13.png" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282677, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282690, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282691, "dur":2, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282693, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282708, "dur":2, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282711, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/sereno.png" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282713, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282721, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level3" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282726, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032282728, "dur":274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level3" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283005, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283011, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283013, "dur":233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283248, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283255, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283263, "dur":134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1775139032283399, "dur":9194503, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139041477902, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1775139041477934, "dur":4, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139041477941, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1775139041477976, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1775139041478034, "dur":607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032274727, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032274728, "dur":6806, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281537, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281541, "dur":177, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281725, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/12.png" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281732, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281748, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/10.png" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281750, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032281768, "dur":631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1775139032282399, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032282410, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_serena.png" }}
+,{ "pid":12345, "tid":15, "ts":1775139032282413, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032282421, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1775139032282429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032282641, "dur":392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283036, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283041, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283043, "dur":130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283176, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283182, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283184, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":15, "ts":1775139032283340, "dur":9194546, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139041477886, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1775139041478054, "dur":3, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1775139041478057, "dur":572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032274586, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032274587, "dur":7044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032281634, "dur":347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Json/demandas.json" }}
+,{ "pid":12345, "tid":16, "ts":1775139032281981, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282094, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/bravo.png" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282099, "dur":371, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282472, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE_seria.png" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282477, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282578, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282591, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282594, "dur":308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282905, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282921, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139032282923, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"era_1.1_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1775139032283695, "dur":9194197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139041477894, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1775139041477938, "dur":5, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139041477944, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles era_1.1_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1775139041477971, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1775139041477984, "dur":641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1775139041480498, "dur":207, "ph":"X", "name": "ProfilerWriteOutput" }
+,

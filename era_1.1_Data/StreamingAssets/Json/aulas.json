@@ -1,0 +1,22 @@
+﻿{
+  "Aulas": [
+    {
+      "dia": 1,
+      "disciplina": "Quimica",
+      "detalhes": "Nenhuma",
+      "atividades": "Nenhuma"
+    },
+     {
+      "dia": 2,
+      "disciplina": "Geografia",
+      "detalhes": "Nenhuma",
+      "atividades": "Nenhuma"
+    },
+     {
+      "dia": 3,
+      "disciplina": "História",
+      "detalhes": "Nenhuma",
+      "atividades": "Nenhuma"
+    }
+  ]
+}

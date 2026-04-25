@@ -1,0 +1,201 @@
+
+=== Tue Jan 29 15:35:16 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.collab-proxy@1.2.15
+The following packages were updated:
+  com.unity.analytics from version 2.0.16 to 3.2.2
+  com.unity.package-manager-ui from version 1.9.11 to 2.0.3
+  com.unity.textmeshpro from version 1.2.4 to 1.3.0
+
+=== Sat Mar 23 11:20:00 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.package-manager-ui from version 2.0.3 to 2.0.7
+
+=== Wed Apr 17 10:06:08 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.timeline@1.0.0
+  com.unity.multiplayer-hlapi@1.0.2
+  com.unity.xr.legacyinputhelpers@2.0.2
+The following packages were updated:
+  com.unity.analytics from version 3.2.2 to 3.3.2
+  com.unity.collab-proxy from version 1.2.15 to 1.2.16
+  com.unity.package-manager-ui from version 2.0.7 to 2.1.2
+  com.unity.purchasing from version 2.0.3 to 2.0.6
+  com.unity.textmeshpro from version 1.3.0 to 2.0.0
+
+=== Tue Apr 30 09:53:43 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.timeline@1.0.0
+  com.unity.multiplayer-hlapi@1.0.2
+  com.unity.xr.legacyinputhelpers@2.0.2
+The following packages were updated:
+  com.unity.analytics from version 3.2.2 to 3.3.2
+  com.unity.collab-proxy from version 1.2.15 to 1.2.16
+  com.unity.package-manager-ui from version 2.0.7 to 2.1.2
+  com.unity.purchasing from version 2.0.3 to 2.0.6
+  com.unity.textmeshpro from version 1.3.0 to 2.0.0
+
+=== Sun Jun  9 12:18:06 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ext.nunit@1.0.0
+  com.unity.test-framework@1.0.13
+  com.unity.2d.sprite@1.0.0
+  com.unity.ide.vscode@1.0.7
+  com.unity.ide.visualstudio@1.0.10
+  com.unity.ide.rider@1.0.8
+  com.unity.ugui@1.0.0
+  com.unity.modules.androidjni@1.0.0
+The following packages were updated:
+  com.unity.package-manager-ui from version 2.1.2 to 2.2.0
+  com.unity.textmeshpro from version 2.0.0 to 2.0.1
+  com.unity.timeline from version 1.0.0 to 1.1.0
+
+=== Sun Jun  9 18:37:45 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ext.nunit@1.0.0
+  com.unity.test-framework@1.0.13
+  com.unity.2d.sprite@1.0.0
+  com.unity.ide.vscode@1.0.7
+  com.unity.ide.visualstudio@1.0.10
+  com.unity.ide.rider@1.0.8
+  com.unity.ugui@1.0.0
+  com.unity.modules.androidjni@1.0.0
+The following packages were updated:
+  com.unity.package-manager-ui from version 2.1.2 to 2.2.0
+  com.unity.textmeshpro from version 2.0.0 to 2.0.1
+  com.unity.timeline from version 1.0.0 to 1.1.0
+
+=== Tue Jul 30 08:48:25 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.visualstudio from version 1.0.10 to 1.0.11
+  com.unity.multiplayer-hlapi from version 1.0.2 to 1.0.4
+  com.unity.test-framework from version 1.0.13 to 1.0.16
+  com.unity.xr.legacyinputhelpers from version 2.0.2 to 2.0.4
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
+
+=== Fri Aug 30 08:03:36 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 1.0.8 to 1.1.0
+  com.unity.test-framework from version 1.0.16 to 1.0.17
+  com.unity.xr.legacyinputhelpers from version 2.0.4 to 2.0.6
+
+=== Thu Sep 19 18:29:09 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.0.17 to 1.1.1
+  com.unity.timeline from version 1.1.0 to 1.2.1
+
+=== Fri Sep 27 11:33:49 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.timeline from version 1.2.1 to 1.2.2
+
+=== Sat Oct 19 20:20:41 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.1 to 1.1.3
+
+=== Mon May 11 10:09:57 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ads from version 2.0.8 to 3.4.4
+  com.unity.analytics from version 3.3.2 to 3.3.5
+  com.unity.ide.rider from version 1.1.0 to 1.1.4
+  com.unity.ide.vscode from version 1.1.2 to 1.2.0
+  com.unity.test-framework from version 1.1.3 to 1.1.13
+  com.unity.timeline from version 1.1.0 to 1.2.6
+
+=== Sun Jun 21 08:31:40 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ads from version 3.4.4 to 3.4.5
+  com.unity.ide.vscode from version 1.2.0 to 1.2.1
+  com.unity.multiplayer-hlapi from version 1.0.4 to 1.0.6
+  com.unity.test-framework from version 1.1.13 to 1.1.14
+
+=== Wed Dec  2 20:14:48 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ads from version 3.4.5 to 3.5.0
+  com.unity.analytics from version 3.3.5 to 3.5.3
+  com.unity.collab-proxy from version 1.2.16 to 1.3.9
+  com.unity.ide.rider from version 1.1.4 to 1.2.1
+  com.unity.ide.visualstudio from version 1.0.11 to 2.0.3
+  com.unity.ide.vscode from version 1.2.1 to 1.2.3
+  com.unity.purchasing from version 2.0.6 to 2.1.1
+  com.unity.test-framework from version 1.1.14 to 1.1.18
+  com.unity.textmeshpro from version 2.0.1 to 3.0.1
+
+=== Thu Dec  4 22:44:46 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ads from version 3.5.0 to 4.4.2
+  com.unity.analytics from version 3.5.3 to 3.6.12
+  com.unity.collab-proxy from version 1.3.9 to 2.5.2
+  com.unity.ext.nunit from version 1.0.5 to 1.0.6
+  com.unity.ide.rider from version 1.2.1 to 3.0.31
+  com.unity.ide.visualstudio from version 2.0.5 to 2.0.22
+  com.unity.ide.vscode from version 1.2.3 to 1.2.5
+  com.unity.inputsystem from version 1.0.1 to 1.7.0
+  com.unity.purchasing from version 2.1.1 to 4.9.3
+  com.unity.test-framework from version 1.1.18 to 1.1.33
+  com.unity.textmeshpro from version 3.0.3 to 3.0.6
+  com.unity.timeline from version 1.2.6 to 1.6.5
+The following packages were removed:
+  com.unity.multiplayer-hlapi@1.0.6

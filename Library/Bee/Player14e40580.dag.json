@@ -1,0 +1,3246 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level0",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level0"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level0"
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/ScriptingAssemblies.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/ScriptingAssemblies.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/ScriptingAssemblies.json"
+      ],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets8.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets8.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets8.assets"
+      ],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/globalgamemanagers",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/globalgamemanagers"
+      ],
+      "Outputs": [
+        "era_1.1_Data/globalgamemanagers"
+      ],
+      "DebugActionIndex": 4
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/resources.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/resources.assets.resS"
+      ],
+      "Outputs": [
+        "era_1.1_Data/resources.assets.resS"
+      ],
+      "DebugActionIndex": 5
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets0.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets0.assets.resS"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets0.assets.resS"
+      ],
+      "DebugActionIndex": 6
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets4.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets4.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets4.assets"
+      ],
+      "DebugActionIndex": 7
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level5",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level5"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level5"
+      ],
+      "DebugActionIndex": 8
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level4",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level4"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level4"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level7",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level7"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level7"
+      ],
+      "DebugActionIndex": 10
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level1",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level1"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level1"
+      ],
+      "DebugActionIndex": 11
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets2.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets2.assets.resS"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets2.assets.resS"
+      ],
+      "DebugActionIndex": 12
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets6.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets6.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets6.assets"
+      ],
+      "DebugActionIndex": 13
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets7.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets7.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets7.assets"
+      ],
+      "DebugActionIndex": 14
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level6",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level6"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level6"
+      ],
+      "DebugActionIndex": 15
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets0.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets0.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets0.assets"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets3.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets3.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets3.assets"
+      ],
+      "DebugActionIndex": 17
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level2",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level2"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level2"
+      ],
+      "DebugActionIndex": 18
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets9.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets9.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets9.assets"
+      ],
+      "DebugActionIndex": 19
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets5.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets5.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets5.assets"
+      ],
+      "DebugActionIndex": 20
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets2.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets2.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets2.assets"
+      ],
+      "DebugActionIndex": 21
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/resources.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/resources.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/resources.assets"
+      ],
+      "DebugActionIndex": 22
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets1.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets1.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets1.assets"
+      ],
+      "DebugActionIndex": 23
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level9",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level9"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level9"
+      ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/sharedassets0.resource",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/sharedassets0.resource"
+      ],
+      "Outputs": [
+        "era_1.1_Data/sharedassets0.resource"
+      ],
+      "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level3",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level3"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level3"
+      ],
+      "DebugActionIndex": 26
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/RuntimeInitializeOnLoads.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/RuntimeInitializeOnLoads.json"
+      ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/level8",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/level8"
+      ],
+      "Outputs": [
+        "era_1.1_Data/level8"
+      ],
+      "DebugActionIndex": 28
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/globalgamemanagers.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/globalgamemanagers.assets"
+      ],
+      "Outputs": [
+        "era_1.1_Data/globalgamemanagers.assets"
+      ],
+      "DebugActionIndex": 29
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/boot.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/boot.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/boot.config"
+      ],
+      "DebugActionIndex": 30
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Resources/unity_builtin_extra",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/Resources/unity_builtin_extra"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Resources/unity_builtin_extra"
+      ],
+      "DebugActionIndex": 31
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/alunos.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/alunos.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/alunos.json"
+      ],
+      "DebugActionIndex": 32
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/falas.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/falas.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/falas.json"
+      ],
+      "DebugActionIndex": 33
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/aulas.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/aulas.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/aulas.json"
+      ],
+      "DebugActionIndex": 34
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/personagens.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/personagens.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/personagens.json"
+      ],
+      "DebugActionIndex": 35
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/recursos_biblioteca.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/recursos_biblioteca.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/recursos_biblioteca.json"
+      ],
+      "DebugActionIndex": 36
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/metodologias.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/metodologias.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/metodologias.json"
+      ],
+      "DebugActionIndex": 37
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/recursos_multifuncionais.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/recursos_multifuncionais.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/recursos_multifuncionais.json"
+      ],
+      "DebugActionIndex": 38
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Json/demandas.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Json/demandas.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Json/demandas.json"
+      ],
+      "DebugActionIndex": 39
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/12.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/12.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/12.png"
+      ],
+      "DebugActionIndex": 40
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/32.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/32.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/32.png"
+      ],
+      "DebugActionIndex": 41
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/10.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/10.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/10.png"
+      ],
+      "DebugActionIndex": 42
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/14.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/14.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/14.png"
+      ],
+      "DebugActionIndex": 43
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/6.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/6.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/6.png"
+      ],
+      "DebugActionIndex": 44
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/8.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/8.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/8.png"
+      ],
+      "DebugActionIndex": 45
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/0.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/0.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/0.png"
+      ],
+      "DebugActionIndex": 46
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/9.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/9.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/9.png"
+      ],
+      "DebugActionIndex": 47
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/24.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/24.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/24.png"
+      ],
+      "DebugActionIndex": 48
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/11.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/11.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/11.png"
+      ],
+      "DebugActionIndex": 49
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/33.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/33.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/33.png"
+      ],
+      "DebugActionIndex": 50
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/16.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/16.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/16.png"
+      ],
+      "DebugActionIndex": 51
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/13.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/13.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/13.png"
+      ],
+      "DebugActionIndex": 52
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/7.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/7.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/7.png"
+      ],
+      "DebugActionIndex": 53
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/4.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/4.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/4.png"
+      ],
+      "DebugActionIndex": 54
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/17.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/17.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/17.png"
+      ],
+      "DebugActionIndex": 55
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/19.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/19.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/19.png"
+      ],
+      "DebugActionIndex": 56
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/1.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/1.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/1.png"
+      ],
+      "DebugActionIndex": 57
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/2.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/2.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/2.png"
+      ],
+      "DebugActionIndex": 58
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/18.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/18.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/18.png"
+      ],
+      "DebugActionIndex": 59
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/15.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/15.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/15.png"
+      ],
+      "DebugActionIndex": 60
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/3.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/3.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/3.png"
+      ],
+      "DebugActionIndex": 61
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/Character/5.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/Character/5.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/Character/5.png"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/André.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/André.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/André.png"
+      ],
+      "DebugActionIndex": 63
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE.png"
+      ],
+      "DebugActionIndex": 64
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_serena.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_serena.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_serena.png"
+      ],
+      "DebugActionIndex": 65
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_séria.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_séria.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_séria.png"
+      ],
+      "DebugActionIndex": 66
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_feliz.png"
+      ],
+      "DebugActionIndex": 67
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valéria.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valéria.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valéria.png"
+      ],
+      "DebugActionIndex": 68
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_feliz.png"
+      ],
+      "DebugActionIndex": 69
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_brava.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_brava.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_brava.png"
+      ],
+      "DebugActionIndex": 70
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE.png"
+      ],
+      "DebugActionIndex": 71
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_serena.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_serena.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/VALERIA_serena.png"
+      ],
+      "DebugActionIndex": 72
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE_seria.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE_seria.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANE_seria.png"
+      ],
+      "DebugActionIndex": 73
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-M_cenario.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-M_cenario.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-M_cenario.png"
+      ],
+      "DebugActionIndex": 74
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_serio.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_serio.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_serio.png"
+      ],
+      "DebugActionIndex": 75
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_serena.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_serena.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/MARILDE_serena.png"
+      ],
+      "DebugActionIndex": 76
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-H_cenario.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-H_cenario.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/PLAYER-H_cenario.png"
+      ],
+      "DebugActionIndex": 77
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_sereno.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_sereno.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_sereno.png"
+      ],
+      "DebugActionIndex": 78
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANA_feliz.png"
+      ],
+      "DebugActionIndex": 79
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/ANDRE_feliz.png"
+      ],
+      "DebugActionIndex": 80
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/12.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/12.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/12.png"
+      ],
+      "DebugActionIndex": 81
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/10.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/10.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/10.png"
+      ],
+      "DebugActionIndex": 82
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/6.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/6.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/6.png"
+      ],
+      "DebugActionIndex": 83
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/8.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/8.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/8.png"
+      ],
+      "DebugActionIndex": 84
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/0.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/0.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/0.png"
+      ],
+      "DebugActionIndex": 85
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/11.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/11.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/11.png"
+      ],
+      "DebugActionIndex": 86
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/4.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/4.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/4.png"
+      ],
+      "DebugActionIndex": 87
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/17.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/17.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/17.png"
+      ],
+      "DebugActionIndex": 88
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/3.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/3.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/3.png"
+      ],
+      "DebugActionIndex": 89
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/5.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/Students/5.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/Students/5.png"
+      ],
+      "DebugActionIndex": 90
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/feliz.png"
+      ],
+      "DebugActionIndex": 91
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/VALERIA_cenario.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/VALERIA_cenario.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/VALERIA_cenario.png"
+      ],
+      "DebugActionIndex": 92
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/bravo.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/bravo.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/bravo.png"
+      ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/sereno.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/sereno.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Valeria/sereno.png"
+      ],
+      "DebugActionIndex": 94
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/feliz.png"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/ANDRE_cenario.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/ANDRE_cenario.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/ANDRE_cenario.png"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/serio.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/serio.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/serio.png"
+      ],
+      "DebugActionIndex": 97
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/sereno.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/sereno.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Andre/sereno.png"
+      ],
+      "DebugActionIndex": 98
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/feliz.png"
+      ],
+      "DebugActionIndex": 99
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/serio.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/serio.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/serio.png"
+      ],
+      "DebugActionIndex": 100
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/MARILDE_cenario.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/MARILDE_cenario.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/MARILDE_cenario.png"
+      ],
+      "DebugActionIndex": 101
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/sereno.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/sereno.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Marilde/sereno.png"
+      ],
+      "DebugActionIndex": 102
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/feliz.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/feliz.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/feliz.png"
+      ],
+      "DebugActionIndex": 103
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/serio.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/serio.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/serio.png"
+      ],
+      "DebugActionIndex": 104
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/Ana_cenario.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/Ana_cenario.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/Ana_cenario.png"
+      ],
+      "DebugActionIndex": 105
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/sereno.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/sereno.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/Illustrations/CharacterPortraits/SchoolStaff/Ane/sereno.png"
+      ],
+      "DebugActionIndex": 106
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/com.unity.services.core/UnityServicesProjectConfiguration.json"
+      ],
+      "Outputs": [
+        "era_1.1_Data/StreamingAssets/UnityServicesProjectConfiguration.json"
+      ],
+      "DebugActionIndex": 107
+    },
+    {
+      "Annotation": "UnityLinker /home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents",
+      "Action": "\"/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/build/deploy/UnityLinker\" --search-directory=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed\" --out=\"Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped\" --include-link-xml=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/TypesInScenes.xml\" --include-link-xml=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/SerializedTypes.xml\" --include-link-xml=\"/home/guest/Documentos/era_inclusiva-1.1/Assets/../Temp/InputSystemLink.xml\" --include-directory=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed\" --rule-set=Experimental --profiler-report --profiler-output-file=\"/home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents\" --dotnetprofile=unityaot-linux --dotnetruntime=Mono --architecture=x64 --platform=Linux --use-editor-options --engine-modules-asset-file=\"/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/modules.asset\" --editor-data-file=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json\" --include-unity-root-assembly=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.dll\" --include-unity-root-assembly=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll\" --include-unity-root-assembly=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll\" --include-unity-root-assembly=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.InputSystem.dll\" --include-unity-root-assembly=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll\" --include-unity-root-assembly=\"/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Coffee.SoftMaskForUGUI.dll\" --print-command-line --enable-analytics",
+      "ProfilerOutput": "/home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents",
+      "Inputs": [
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Csp.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ValueTuple.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ClusterRendererModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Build.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Newtonsoft.Json.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Security.Win32.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.TraceSource.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Workflow.ComponentModel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Principal.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Text.Encoding.Extensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Build.Framework.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Linq.Expressions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.FileSystem.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.FileSystem.Watcher.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Web.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.Services.Client.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Pkcs.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Routing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.HttpListener.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ClusterInputModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.ApplicationServices.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.RegularExpressions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Sockets.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.AppleCore.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Claims.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Utilities.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.AppleStub.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Internals.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.NetTcp.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.ReaderWriter.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Memory.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Abstractions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Tasks.Extensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Formatters.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.Debug.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Globalization.Extensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.Tracing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Management.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Cairo.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.DynamicData.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Tasklets.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.CSharp.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.FileVersionInfo.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Http.Rtc.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Collections.Specialized.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Collections.NonGeneric.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Razor.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Extensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Workflow.Runtime.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Linq.Queryable.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/SerializedTypes.xml",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Text.Encoding.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Json.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Design.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.RSA.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.Linq.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Encryption.Aes.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Remoting.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.StackTrace.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Globalization.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Linq.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Tasks.Parallel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.ServicePoint.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.MemoryMappedFiles.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Windows.Forms.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.TypeExtensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.WindowsRuntime.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.InputSystem.ForUI.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Resources.Reader.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.XBuild.Tasks.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.Entity.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Advertisements.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.CSharp.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.XPath.XDocument.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.SecurityCore.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Tasks.Dataflow.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Hashing.Algorithms.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Posix.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ObjectModel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Ping.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Win32.Registry.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.Tools.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Text.RegularExpressions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Purchasing.Common.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Data.Sqlite.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/monodoc.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Extensions.Design.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Configuration.Install.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Build.Engine.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Parallel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Coffee.SoftMaskForUGUI.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Http.WebRequest.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.WebHeaderCollection.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Messaging.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.XPath.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.NameResolution.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Overlapped.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Stores.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.TraceEvent.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Messaging.RabbitMQ.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.SpriteMaskModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.Compression.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Resources.Writer.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.DirectoryServices.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Http.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.SecureString.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Discovery.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/PEAPI.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.AppContext.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.DirectoryServices.Protocols.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Buffers.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Activation.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Security.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Xml.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Btls.Interface.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Resources.ReaderWriter.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.DataSetExtensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.FileSystem.DriveInfo.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityCurlModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Linq.Parallel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Simd.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.SqlClient.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Dynamic.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.DurableInstancing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Handles.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Http.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.Services.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Deployment.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.TypeConverter.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Collections.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Options.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Drawing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Win32.Registry.AccessControl.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.EnterpriseServices.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/WebMatrix.Data.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.XmlDocument.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Debugger.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.VisualC.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Profiler.Log.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Text.Encoding.CodePages.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Json.Microsoft.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.Process.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/netstandard.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.Extensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Build.Tasks.v4.0.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Encryption.ECDiffieHellman.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.FileSystem.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Web.Infrastructure.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IdentityModel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Analytics.DataPrivacy.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.Contracts.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.AuthenticationManager.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Encryption.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Mvc.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.Linq.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.WebBrowser.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Runtime.Remoting.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.DeriveBytes.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/TypesInScenes.xml",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.DataAnnotations.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.C5.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Globalization.Calendars.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Hashing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Json.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.WebSockets.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.WinRTStub.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Console.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Duplex.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xaml.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Collections.Concurrent.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.XDocument.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.Xsl.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.RandomNumberGenerator.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.WinRTCore.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.NetworkInformation.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Dynamic.Runtime.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Messaging.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.ProtectedData.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Algorithms.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Windows.Forms.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.Composition.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Providers.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.CompilerServices.SymbolWriter.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Diagnostics.TextWriterTraceListener.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Security.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.GIModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Loader.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Transactions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.Compression.FileSystem.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.FileSystem.AccessControl.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Requests.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.Common.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Http.SelfHost.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.XmlSerializer.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.WebPages.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Mobile.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Services.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Windows.Forms.DataVisualization.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.Compression.ZipFile.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Accessibility.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Novell.Directory.Ldap.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Numerics.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Management.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/SMDiagnostics.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Principal.Windows.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Timeline.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Experimental.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Drawing.Design.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.Annotations.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Tasks.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.DispatchProxy.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.Emit.ILGeneration.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.X509Certificates.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.CompilerServices.VisualC.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Windows.Threading.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Data.Tds.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Thread.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.XPath.XmlDocument.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Encoding.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.PlatformServices.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.Timer.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Numerics.Vectors.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.WebPages.Razor.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Drawing.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ComponentModel.EventBasedAsync.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Xml.Serialization.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Http.WebHost.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/IBM.Data.DB2.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.ThreadPool.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Mono.Http.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Http.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Threading.AccessControl.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Observable.Aliases.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.WebSockets.Client.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Resources.ResourceManager.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.OpenSsl.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Win32.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.AccessControl.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.Context.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceModel.Routing.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.IsolatedStorage.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/SystemWebTestShim.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.Primitives.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Codeless.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.WebPages.Deployment.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Interfaces.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Http.Formatting.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IdentityModel.Selectors.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Core.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.OracleClient.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceProcess.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/CustomMarshalers.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.UnmanagedMemoryStream.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Cng.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.InputSystem.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.Caching.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Cache.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Windows.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reactive.Linq.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Commons.Xml.Relaxng.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/ICSharpCode.SharpZipLib.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.ServiceProcess.ServiceController.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/WindowsBase.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.Emit.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.IO.Pipes.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Reflection.Emit.Lightweight.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Security.Cryptography.Encryption.ECDsa.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Microsoft.Build.Utilities.v4.0.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Workflow.Activities.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/RabbitMQ.Client.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/cscompmgd.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Web.Extensions.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.SecurityStub.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Net.Mail.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed/System.Data.dll",
+        "/home/guest/Documentos/era_inclusiva-1.1/Temp/InputSystemLink.xml",
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/modules.asset",
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/Il2CppSetOptionAttribute.cs",
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/il2cpp_root",
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/Il2CppEagerStaticClassConstructionAttribute.cs",
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/il2cpp_default_extra_types.txt"
+      ],
+      "Outputs": [
+        "/home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents",
+        "/home/guest/Documentos/era_inclusiva-1.1/Library/Bee/artifacts/unitylinker_1ofc.traceevents"
+      ],
+      "TargetDirectories": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped"
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "GlobSignatures": [
+        {
+          "Path": "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped",
+          "Filter": "*.dll",
+          "Recurse": 1
+        },
+        {
+          "Path": "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped",
+          "Filter": "*.exe",
+          "Recurse": 1
+        },
+        {
+          "Path": "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped",
+          "Filter": "*.winmd",
+          "Recurse": 1
+        },
+        {
+          "Path": "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped",
+          "Filter": "*.pdb",
+          "Recurse": 1
+        }
+      ],
+      "DebugActionIndex": 108
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.ImageConversionModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 109
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.TextRenderingModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 110
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.VideoModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.VideoModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 111
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 112
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.AssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 113
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.GridModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.GridModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 114
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 115
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 116
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.VFXModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.VFXModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 117
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UI.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UI.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 118
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 119
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/Assembly-CSharp-firstpass.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/Assembly-CSharp-firstpass.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.InputLegacyModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 121
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/Coffee.SoftMaskForUGUI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/Coffee.SoftMaskForUGUI.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/Coffee.SoftMaskForUGUI.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 122
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 123
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.IMGUIModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 124
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 125
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.XRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 126
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/System.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/System.Configuration.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/System.Configuration.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 127
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 128
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 129
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/System.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/System.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/System.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 130
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.SubsystemsModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 131
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.InputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.InputModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 132
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 133
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/Unity.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/Unity.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 134
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/System.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/System.Core.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/System.Core.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 135
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.VRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.VRModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 136
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 137
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 138
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.CoreModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.CoreModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 139
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.AudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.AudioModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 140
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/System.Xml.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/System.Xml.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/System.Xml.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 141
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/mscorlib.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/mscorlib.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/mscorlib.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 142
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/Assembly-CSharp.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 143
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/Mono.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/Mono.Security.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/Mono.Security.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 144
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 145
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.TerrainModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.TerrainModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 146
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 147
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.TilemapModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.TilemapModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 148
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.AIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.AIModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 149
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.PhysicsModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 150
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.UIElementsModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 151
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.DirectorModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.DirectorModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 152
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/System.Numerics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/System.Numerics.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/System.Numerics.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 153
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 154
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.Physics2DModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 155
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/Unity.InputSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/Unity.InputSystem.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/Unity.InputSystem.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 156
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Managed/UnityEngine.AnimationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped/UnityEngine.AnimationModule.dll"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "ToBuildDependencies": [
+        108
+      ],
+      "DebugActionIndex": 157
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "LOA\nAEraInclusiva",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 158
+    },
+    {
+      "Annotation": "CopyFiles UnityPlayer.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/UnityPlayer.so"
+      ],
+      "Outputs": [
+        "UnityPlayer.so"
+      ],
+      "DebugActionIndex": 159
+    },
+    {
+      "Annotation": "CopyFiles era_1.1.x86_64",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/LinuxPlayer"
+      ],
+      "Outputs": [
+        "era_1.1.x86_64"
+      ],
+      "DebugActionIndex": 160
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Resources/unity default resources",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/Resources/unity default resources"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Resources/unity default resources"
+      ],
+      "DebugActionIndex": 161
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/x86_64/libmono-native.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/x86_64/libmono-native.so"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/x86_64/libmono-native.so"
+      ],
+      "DebugActionIndex": 162
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so"
+      ],
+      "DebugActionIndex": 163
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so"
+      ],
+      "DebugActionIndex": 164
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/config"
+      ],
+      "DebugActionIndex": 165
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/browscap.ini",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "DebugActionIndex": 166
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/config"
+      ],
+      "DebugActionIndex": 167
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "DebugActionIndex": 168
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "DebugActionIndex": 169
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "DebugActionIndex": 170
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 171
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "DebugActionIndex": 172
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "DebugActionIndex": 173
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "DebugActionIndex": 174
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 175
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "DebugActionIndex": 176
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "DebugActionIndex": 177
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "DebugActionIndex": 178
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 179
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "DebugActionIndex": 180
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 181
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 182
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "era_1.1_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 183
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/app.info",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info"
+      ],
+      "Outputs": [
+        "era_1.1_Data/app.info"
+      ],
+      "ToBuildDependencies": [
+        158
+      ],
+      "DebugActionIndex": 184
+    },
+    {
+      "Annotation": "CopyFiles era_1.1_Data/Resources/UnityPlayer.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Resources/LargeUnityIcon.png"
+      ],
+      "Outputs": [
+        "era_1.1_Data/Resources/UnityPlayer.png"
+      ],
+      "DebugActionIndex": 185
+    },
+    {
+      "Annotation": "Player",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 186
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/LinuxPlayerBuildProgram.Data.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/LinuxPlayerBuildProgram.exe"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/ClassRegistrationGenerator.exe"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/Player14e40580-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/Resources"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/codegen"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/gc"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/os"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/utils"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/vm-utils"
+    },
+    {
+      "File": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpptiny"
+    },
+    {
+      "File": "Library/Bee/Player14e40580-inputdata.json"
+    },
+    {
+      "File": "Temp/StagingArea/UnityPlayer.png"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "/home/guest/Documentos/era_inclusiva-1.1/Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport"
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/Resources",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/Tools/BuildPipeline"
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp"
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/codegen",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/gc",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/os",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/utils",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/guest/Unity/Hub/Editor/2021.3.45f2/Editor/Data/il2cpp/libil2cpp/vm-utils",
+      "Recurse": 1
+    },
+    {
+      "Path": "Assets/StreamingAssets",
+      "Recurse": 1
+    },
+    {
+      "Path": "Library/PlayerDataCache/Linux64/Data",
+      "Recurse": 1
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Plugins"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/UnitySubsystems",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt",
+    ".config"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 0,
+  "DirectoriesCausingImplicitDependencies": [
+    "Library/Bee/artifacts/LinuxPlayerBuildProgram/ManagedStripped"
+  ],
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "Player": 186
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/Player14e40580.dag.json",
+  "RelativePathToRoot": "../.."
+}
