@@ -6,6 +6,8 @@
       "ordem": 2,
       "descricao": "Fábio está com a cabeça na carteira dormindo. O que fazer?",
       "nivelUrgencia": 1,
+      "audioProfessor":"Audio/Demandas/Professor/02.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/96.mp3",
       "acoesEficazes": [
         {
           "idAcao": 2,
@@ -34,6 +36,8 @@
       "ordem": 5,
       "descricao": "Fábio pegou o celular do colega e não quer devolvê-lo. O que fazer?",
       "nivelUrgencia": 3,
+      "audioProfessor":"Audio/Demandas/Professor/03.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/97.mp3",
       "acoesEficazes": [
         {
           "idAcao": 18,
@@ -59,6 +63,8 @@
       "ordem": 7,
       "descricao": "Fábio está disperso desenhando na carteira. O que fazer?",
       "nivelUrgencia": 1,
+      "audioProfessor":"Audio/Demandas/Professor/04.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/98.mp3",
       "acoesEficazes": [
         {
           "idAcao": 8,
@@ -92,6 +98,8 @@
       "ordem": 3,
       "descricao": "Carla está conversando com os colegas, atrapalhando o andamento da aula. O que fazer? ",
       "nivelUrgencia": 2,
+      "audioProfessor":"Audio/Demandas/Professor/05.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/99.mp3",
       "acoesEficazes": [
         {
           "idAcao": 3,
@@ -117,6 +125,8 @@
       "ordem": 6,
       "descricao": "Carla está chorando por não compreender o conteúdo. Como ajudar?",
       "nivelUrgencia": 2,
+      "audioProfessor":"Audio/Demandas/Professor/06.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/100.mp3",
       "acoesEficazes": [
         {
           "idAcao": 3,
@@ -146,6 +156,8 @@
       "ordem": 8,
       "descricao": "Carla está tentando realizar a atividade sozinha, mas apresenta dificuldades. O que fazer?",
       "nivelUrgencia": 1,
+      "audioProfessor":"Audio/Demandas/Professor/07.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/101.mp3",
       "acoesEficazes": [
         {
           "idAcao": 20,
@@ -175,6 +187,8 @@
       "ordem": 1,
       "descricao": "Isabela parece não compreender o texto explicativo escrito na lousa. Como ajudar?",
       "nivelUrgencia": 1,
+      "audioProfessor":"Audio/Demandas/Professor/08.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/102.mp3",
       "acoesEficazes": [
         {
           "idAcao": 10,
@@ -200,6 +214,8 @@
       "ordem": 4,
       "descricao": "Isabela ainda demonstra dificuldades de compreender o conteúdo sozinha. Como auxiliar?",
       "nivelUrgencia": 1,
+      "audioProfessor":"Audio/Demandas/Professor/09.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/103.mp3",
       "acoesEficazes": [
         {
           "idAcao": 3,
@@ -225,6 +241,8 @@
       "ordem": 9,
       "descricao": "Isabela te mostrou suas anotações sobre o conteúdo, mas contém muitos erros de escrita. O que fazer?",
       "nivelUrgencia": 1,
+      "audioProfessor":"Audio/Demandas/Professor/10.mp3",
+      "audioProfessora":"Audio/Demandas/Professora/104.mp3",
       "acoesEficazes": [
         {
           "idAcao": 23,
